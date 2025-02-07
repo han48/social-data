@@ -1,3 +1,8 @@
+Keyword: Say Hi
+Channel: UC5IF3CEfF1reo_0XSauCKZA
+
+==================================================================================
+
 Thống kê chỉ số trên Youtube Official của chương trình giải trí 「Anh Trai Say Hi」
 
 Toàn bộ hệ thống các kênh Youtube của DatVietVAC có tất cả 36 kênh.
@@ -53,12 +58,12 @@ Trung bình mỗi video của chương trình giải trí 「Anh Trai Say Hi」 
 - Bình luận: 1,434
 
 Thông tin khác:
-- Video có lượt xem nhiều nhất: NGÁO NGƠ - HIEUTHUHAI, Atus, Jsol, Erik cùng Orange bùng nổ visual | Anh Trai Say Hi [Performance]
-- Video có lượt xem thấp nhất: Erik đã cháy hết mình trong màn solo, các fan cũng phải nhấn cháy nút vote tại Anh Trai “Say Hi”!
-- Video có thích nhiều nhất: NGÁO NGƠ - HIEUTHUHAI, Atus, Jsol, Erik cùng Orange bùng nổ visual | Anh Trai Say Hi [Performance]
-- Video có thích thấp nhất: Anh Trai "Say Hi" rất vinh dự khi được Thứ trưởng Bộ VHTT&DL Tạ Quang Đông tiếp đón tại Hải Phòng
-- Video có bình luận xem nhiều nhất: NGÁO NGƠ - HIEUTHUHAI, Atus, Jsol, Erik cùng Orange bùng nổ visual | Anh Trai Say Hi [Performance]
-- Video có bình luận xem thấp nhất: Anh Trai Nicky tạo content drama cuốn hơn mọi thể loại cung đấu | Anh Trai "Say Hi"
+- Video có lượt xem nhiều nhất: NGÁO NGƠ - HIEUTHUHAI, Atus, Jsol, Erik cùng Orange bùng nổ visual | Anh Trai Say Hi [Performance] (37,413,595)
+- Video có lượt xem thấp nhất: Erik đã cháy hết mình trong màn solo, các fan cũng phải nhấn cháy nút vote tại Anh Trai “Say Hi”! (239)
+- Video có thích nhiều nhất: NGÁO NGƠ - HIEUTHUHAI, Atus, Jsol, Erik cùng Orange bùng nổ visual | Anh Trai Say Hi [Performance] (357,346)
+- Video có thích thấp nhất: Anh Trai "Say Hi" rất vinh dự khi được Thứ trưởng Bộ VHTT&DL Tạ Quang Đông tiếp đón tại Hải Phòng (0)
+- Video có bình luận nhiều nhất: NGÁO NGƠ - HIEUTHUHAI, Atus, Jsol, Erik cùng Orange bùng nổ visual | Anh Trai Say Hi [Performance] (271,410)
+- Video có bình luận thấp nhất: Anh Trai Nicky tạo content drama cuốn hơn mọi thể loại cung đấu | Anh Trai "Say Hi" (0)
 
 Note:
 - Số liệu được cung cấp bởi Youtube API tại thời điểm: 2025/02/07 15:00:00.
